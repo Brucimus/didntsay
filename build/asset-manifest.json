@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Brucimus/didntsay/static/css/main.1fe7f1c7.chunk.css",
+    "main.js": "/Brucimus/didntsay/static/js/main.ca9b6ade.chunk.js",
+    "main.js.map": "/Brucimus/didntsay/static/js/main.ca9b6ade.chunk.js.map",
+    "runtime-main.js": "/Brucimus/didntsay/static/js/runtime-main.00e5534a.js",
+    "runtime-main.js.map": "/Brucimus/didntsay/static/js/runtime-main.00e5534a.js.map",
+    "static/js/2.fa390ec4.chunk.js": "/Brucimus/didntsay/static/js/2.fa390ec4.chunk.js",
+    "static/js/2.fa390ec4.chunk.js.map": "/Brucimus/didntsay/static/js/2.fa390ec4.chunk.js.map",
+    "static/js/3.8aeb0601.chunk.js": "/Brucimus/didntsay/static/js/3.8aeb0601.chunk.js",
+    "static/js/3.8aeb0601.chunk.js.map": "/Brucimus/didntsay/static/js/3.8aeb0601.chunk.js.map",
+    "index.html": "/Brucimus/didntsay/index.html",
+    "static/css/main.1fe7f1c7.chunk.css.map": "/Brucimus/didntsay/static/css/main.1fe7f1c7.chunk.css.map",
+    "static/js/2.fa390ec4.chunk.js.LICENSE.txt": "/Brucimus/didntsay/static/js/2.fa390ec4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Brucimus/didntsay/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00e5534a.js",
+    "static/js/2.fa390ec4.chunk.js",
+    "static/css/main.1fe7f1c7.chunk.css",
+    "static/js/main.ca9b6ade.chunk.js"
+  ]
+}
